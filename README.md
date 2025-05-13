@@ -12,13 +12,6 @@ A responsive image carousel with navigation buttons and smooth sliding transitio
 - HTML, CSS (Flexbox, transitions)
 - JavaScript (DOM manipulation)
 
-## Screenshot
-![Carousel Screenshot](screenshots/image-carousel.png)
-
-## Setup
-1. Replace images in `/images` folder
-2. Open `index.html` in your browser
-
 ## Project Structure
 image-carousel/
 ├── index.html
@@ -28,3 +21,7 @@ image-carousel/
 ├── img1.jpg
 ├── img2.jpg
 └── img3.jpg
+
+Author
+Created by Sheila Demonteverde  
+Junior Software Engineering Student at Penn State World Campus
